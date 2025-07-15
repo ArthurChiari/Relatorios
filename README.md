@@ -1,7 +1,1 @@
-<!DOCTYPE html>
-<html>
-<body>
-  <iframe title="AbInbev" width="1650" height="900" src="https://app.powerbi.com/view?r=eyJrIjoiOWZjYjg1NGUtZmMzYy00MDU1LWExMzctZjYyYTAyYjgyODEwIiwidCI6IjMzOTVmYTlmLWM4YjUtNDYwMy05MWRhLTA0ZjM2MWFjNGVlNiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
-</body>
-</html>
-
+Veja o relatório Power BI aqui: [Relatorios](https://arthurchiari.github.io/Relatorios/)
